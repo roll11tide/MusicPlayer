@@ -1,0 +1,27 @@
+W:\Documents\Visual Studio 2015\Projects\Music Player\Music Player\bin\Debug\Music Note.ico
+W:\Documents\Visual Studio 2015\Projects\Music Player\Music Player\bin\Debug\Music Player.exe.config
+W:\Documents\Visual Studio 2015\Projects\Music Player\Music Player\bin\Debug\Music Player.exe
+W:\Documents\Visual Studio 2015\Projects\Music Player\Music Player\bin\Debug\Music Player.pdb
+W:\Documents\Visual Studio 2015\Projects\Music Player\Music Player\obj\Debug\Interop.MediaPlayer.dll
+W:\Documents\Visual Studio 2015\Projects\Music Player\Music Player\obj\Debug\Interop.WMPLib.dll
+W:\Documents\Visual Studio 2015\Projects\Music Player\Music Player\obj\Debug\Music Player.csproj.ResolveComReference.cache
+W:\Documents\Visual Studio 2015\Projects\Music Player\Music Player\obj\Debug\Music_Player.FolderViewScript.resources
+W:\Documents\Visual Studio 2015\Projects\Music Player\Music Player\obj\Debug\Music_Player.Form1.resources
+W:\Documents\Visual Studio 2015\Projects\Music Player\Music Player\obj\Debug\Music_Player.Properties.Resources.resources
+W:\Documents\Visual Studio 2015\Projects\Music Player\Music Player\obj\Debug\Music Player.csproj.GenerateResource.Cache
+W:\Documents\Visual Studio 2015\Projects\Music Player\Music Player\obj\Debug\Music Player.exe
+W:\Documents\Visual Studio 2015\Projects\Music Player\Music Player\obj\Debug\Music Player.pdb
+D:\Documents\Visual Studio 2015\Projects\Music Player\Music Player\bin\Debug\Music Note.ico
+D:\Documents\Visual Studio 2015\Projects\Music Player\Music Player\bin\Debug\Music Player.exe.config
+D:\Documents\Visual Studio 2015\Projects\Music Player\Music Player\bin\Debug\Music Player.exe
+D:\Documents\Visual Studio 2015\Projects\Music Player\Music Player\bin\Debug\Music Player.pdb
+D:\Documents\Visual Studio 2015\Projects\Music Player\Music Player\obj\Debug\Music Player.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Music Player\Music Player\obj\Debug\Interop.MediaPlayer.dll
+D:\Documents\Visual Studio 2015\Projects\Music Player\Music Player\obj\Debug\Interop.WMPLib.dll
+D:\Documents\Visual Studio 2015\Projects\Music Player\Music Player\obj\Debug\Music Player.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2015\Projects\Music Player\Music Player\obj\Debug\Music_Player.FolderViewScript.resources
+D:\Documents\Visual Studio 2015\Projects\Music Player\Music Player\obj\Debug\Music_Player.Form1.resources
+D:\Documents\Visual Studio 2015\Projects\Music Player\Music Player\obj\Debug\Music_Player.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Music Player\Music Player\obj\Debug\Music Player.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\Music Player\Music Player\obj\Debug\Music Player.exe
+D:\Documents\Visual Studio 2015\Projects\Music Player\Music Player\obj\Debug\Music Player.pdb
